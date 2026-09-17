@@ -237,4 +237,4 @@ This repository serves as the official landing page for Proxy Switcher. The soft
 **Get the most recent version of Proxy Switcher today!**
 
 ---
-**Last updated:** 2026-09-17 01:08:36 UTC
+**Last updated:** 2026-09-17 07:19:18 UTC
